@@ -1,0 +1,6 @@
+com/ferreteria/cliente/entities/Cliente.class
+com/ferreteria/cliente/ClienteApplication.class
+com/ferreteria/cliente/repository/JpaRepository.class
+com/ferreteria/cliente/entities/ClienteProducto.class
+com/ferreteria/cliente/repository/ClienteRepository.class
+com/ferreteria/cliente/controller/ClienteRestController.class
